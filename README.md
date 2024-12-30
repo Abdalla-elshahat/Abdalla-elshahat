@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdalla-elshahat-245699242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdalla elshahat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdallah-el-shahat-37a0b8339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdalla elshahat" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100012454170528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalla elshahat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abdallahel_shahat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdalla el shahat" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abdalla_elshaht/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdalla el shahat" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abdallaelshahat58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abdallaelshahat58" height="30" width="40" /></a>
 </p>
 
