@@ -25,3 +25,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalla-elshahat&show_icons=true&locale=en" alt="abdalla-elshahat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla-elshahat&" alt="abdalla-elshahat" /></p>
+
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" 
+    alt="angular" 
+    width="40" 
+    height="40"
+  />
+</a>
